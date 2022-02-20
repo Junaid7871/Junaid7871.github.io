@@ -1,0 +1,91 @@
+body{
+  background-color: #E8E8A6;
+}
+
+.navbar {
+padding-left: 5%;
+background-color: rgb(33,159,148);
+}
+
+.logo {
+  width:14rem;
+  height: 6rem;
+  margin-right: 50%;
+}
+
+
+.navbar-brand {
+  width:100%;
+}
+
+
+.main-body{
+
+margin: 40px 40px;
+
+}
+
+h1{
+  font-family: 'Merriweather', serif;
+font-family: 'Titillium Web', sans-serif;
+  text-align: center;
+  color: #219F94;
+  padding-bottom: 20px;
+
+}
+
+
+.brand-img{
+  width:40%;
+  text-align: center;
+}
+
+.hercules{
+  margin-left: 20%;
+}
+
+.hero{
+  margin-left: 40%;
+  border: 1px solid black;
+}
+
+@media (max-width: 800px) {
+
+  .gang{
+  width: 100%;
+  }
+
+  .hercules{
+    margin-left: 0;
+    width: 100%;
+  }
+  .hero{
+    margin-left: 0;
+    width: 100%;
+  }
+
+}
+
+
+
+.logo-brand{
+  margin-left: 60%;
+  margin-right: 10%
+}
+
+@media (max-width: 800px) {
+  .logo-brand{
+    margin-left: 5%;
+    margin-top: 10px;
+  }
+}
+
+
+
+.card-img-top{
+  height: 220px;;
+}
+
+.card{
+  margin-top: 20px;
+}
