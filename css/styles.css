@@ -70,13 +70,14 @@ font-family: 'Titillium Web', sans-serif;
 
 .logo-brand{
   margin-left: 60%;
-  margin-right: 10%
+  margin-right: 10%;
+  padding: 10px;
 }
 
 @media (max-width: 1081px) {
   .logo-brand{
     margin-left: 5%;
-    margin-top: 10px;
+
   }
 }
 
