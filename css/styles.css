@@ -46,8 +46,9 @@ font-family: 'Titillium Web', sans-serif;
 
 .hero{
   margin-left: 40%;
-  border: 1px solid black;
+  
 }
+
 
 @media (max-width: 1081px) {
 
@@ -103,3 +104,9 @@ font-family: 'Titillium Web', sans-serif;
 .card{
   margin-top: 20px;
 }
+
+.mid {
+  margin-top: 10px; ;
+  margin-bottom: 10px;
+}
+
